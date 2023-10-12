@@ -3,3 +3,6 @@ select
 from
   dual
 ;
+
+truncate table ica_contract
+;
